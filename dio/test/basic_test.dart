@@ -4,7 +4,7 @@
 @TestOn('vm')
 import 'dart:async';
 import 'dart:io';
-import 'package:dio2/dio2.dart';
+import 'package:dio/dio2.dart';
 import 'package:test/test.dart';
 
 void main() {

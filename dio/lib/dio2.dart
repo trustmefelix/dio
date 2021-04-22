@@ -3,7 +3,7 @@
 /// very easy to use.
 ///
 /// A open source project authorized by [https://flutterchina.club](https://flutterchina.club).
-library dio2;
+library dio;
 
 export 'src/dio.dart';
 export 'src/dio_mixin.dart';

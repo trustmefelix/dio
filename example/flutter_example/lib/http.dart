@@ -1,3 +1,3 @@
-import 'package:dio2/dio2.dart';
+import 'package:dio/dio2.dart';
 
 var dio = Dio();
